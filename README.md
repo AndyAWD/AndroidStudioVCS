@@ -18,5 +18,5 @@
 
 ## 目錄
 1. 建立專案
-[SourceTree](建立專案/建立專案SourceTree)
-[AndroidStudio](建立專案/建立專案AndroidStudio)
+* [SourceTree](建立專案/建立專案SourceTree.md)
+* [AndroidStudio](建立專案/建立專案AndroidStudio.md)
