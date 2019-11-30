@@ -17,9 +17,8 @@
 
 ## 上傳新專案
 * 這個超級很容易忘記的
-<details>
-<summary>SourceTree教學</summary>
-<pre><code>
+
+### SourceTree教學
 * 先從GitHub建立一個空白專案
 * 複製專案網址
 ![git001](建立專案/git001.png)
@@ -61,12 +60,8 @@
 
 * 切回GitHub頁面網頁重新整理後就會看到專案已經推送到遠端
 ![git002](建立專案/git002.png)
-</code></pre>
-</details>
 
-<details>
-<summary>Android Studio(IntelliJ IDEA)教學</summary>
-<pre><code>
+### Android Studio(IntelliJ IDEA)教學
 * 先從GitHub建立一個空白專案
 * 複製專案網址
 ![git001](建立專案/git001.png)
@@ -90,5 +85,4 @@
 
 * 切回GitHub頁面網頁重新整理後就會看到專案已經推送到遠端
 ![git002](建立專案/git002.png)
-</details>
 
