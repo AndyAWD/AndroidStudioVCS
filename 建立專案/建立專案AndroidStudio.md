@@ -14,14 +14,15 @@
 * 鍵盤"Ctrl + k"開啟提交頁面
 6. 選取全部檔案，或者自己選擇要推送的檔案
 * 如果出現警告視窗，可以把右下方的Before Commit選項中的"Perform code analysis"和"Check TODO(Show All)"取消勾選
-7. 點擊"Commit"
+7. 輸入提交訊息
+8. 點擊"Commit"
 ![as002](as002.png)
 
-8. 點擊"Define remote"
-9. 輸入專案網址
-10. 點擊"OK"
+9. 點擊"Define remote"
+10. 輸入專案網址
+11. 點擊"OK"
 * 鍵盤"Ctrl + Shift + k"開啟推送頁面
-11. 點擊"Push"
+12. 點擊"Push"
 ![as003](as003.png)
 
 * 切回GitHub頁面網頁重新整理後就會看到專案已經推送到遠端
