@@ -4,7 +4,7 @@
 * 懶的用滑鼠
 * 懶的切畫面
 * 看過JetBrains技術傳教士各種風騷操作後，想要多瞭解Android Studio(IntelliJ IDEA)有什麼有趣的功能
-* 題外話，聽說大神們都用指令模式，等我學會後再補上
+* 聽說大神們都用指令模式，等我學會後再補上
 * 如果有錯誤的地方也請指正，謝謝
 
 ## 本篇會講
@@ -18,5 +18,5 @@
 
 ## 目錄
 1. 建立專案
-    1. [SourceTree](建立專案/建立專案SourceTree.md)
-    2. [AndroidStudio](建立專案/建立專案AndroidStudio.md)
+    1. [SourceTree教學](建立專案/建立專案SourceTree.md)
+    2. [AndroidStudio教學](建立專案/建立專案AndroidStudio.md)
